@@ -1,0 +1,8 @@
+{
+  "name": "BLE_PAY",
+  "description": "A web-based payment application that uses BLE scanning to find nearby merchants. Includes user authentication, profile management, and theme switching.",
+  "requestFramePermissions": [
+    "bluetooth"
+  ],
+  "prompt": ""
+}
