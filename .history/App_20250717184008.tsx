@@ -10,7 +10,7 @@ import SuccessScreen from './components/SuccessScreen';
 import LoginScreen from './components/LoginScreen';
 import RegisterScreen from './components/RegisterScreen';
 import ProfileScreen from './components/ProfileScreen';
-import { SpeedInsights } from "@vercel/speed-insights/react" 
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 
 type View = 'login' | 'register' | 'app' | 'profile';
